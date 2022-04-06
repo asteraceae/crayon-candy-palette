@@ -1,0 +1,21 @@
+root{
+
+--background: #283041;
+--darker_background: #191e28;
+--foreground: #ffffff;
+
+--teal: #bee4ed;
+--pink: #ff99cc;
+--red: #ff7979;
+--blue: #99ccff;
+--cerulean: #687dad;
+--yellow: #ebddaa;
+--purple: #c6aae8;
+--darker_purple: #cc99ff;
+--green: #99ffcc;
+--darker_green: #66cc99;
+--darker_cyan: #45e6ff;
+--cyan: #99f1ff;
+
+--gray: #717886;
+}
